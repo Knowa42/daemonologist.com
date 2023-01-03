@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "School of Daemonology"
+author = "Priest"
+theme = "m10c"
